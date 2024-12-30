@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Pront Change Log</title>
-    <link>https://prontGo.github.io/</link>
+    <link>http://localhost:1313/</link>
     <description>Recent content on Pront Change Log</description>
     <generator>Hugo -- 0.140.1</generator>
     <language>zh-tw</language>
     <lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://prontGo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Pront Change Log 啟動！</title>
-      <link>https://prontGo.github.io/posts/startprontchangelog/</link>
+      <link>http://localhost:1313/posts/startprontchangelog/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
-      <guid>https://prontGo.github.io/posts/startprontchangelog/</guid>
+      <guid>http://localhost:1313/posts/startprontchangelog/</guid>
       <description>Pront Change Log 啟動！</description>
     </item>
     <item>
       <title>搜尋</title>
-      <link>https://prontGo.github.io/search/</link>
+      <link>http://localhost:1313/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://prontGo.github.io/search/</guid>
+      <guid>http://localhost:1313/search/</guid>
       <description>&lt;p&gt;此搜尋功能是&lt;strong&gt;我自己做的&lt;/strong&gt;而不是PaperMod內建的功能，當你按下&lt;strong&gt;Enter&lt;/strong&gt;時會自動戴上參數跳轉到&lt;strong&gt;Google搜尋&lt;/strong&gt;。&lt;/p&gt;</description>
     </item>
   </channel>

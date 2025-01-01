@@ -6,8 +6,15 @@
     <description>Recent content on Pront Change Log</description>
     <generator>Hugo -- 0.140.2</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
     <atom:link href="https://prontGo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>如何用網路自學Python？</title>
+      <link>https://prontGo.github.io/posts/learning-python/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <guid>https://prontGo.github.io/posts/learning-python/</guid>
+      <description>Python是一個強大且適合新手的物件導向程式語言，它簡單易學而且編寫效率很高，被廣泛用於AI及科學領域。本篇將會告訴你如何運用優質的免費網路資源自學Python。</description>
+    </item>
     <item>
       <title>Pront Change Log 啟動！</title>
       <link>https://prontGo.github.io/posts/startprontchangelog/</link>

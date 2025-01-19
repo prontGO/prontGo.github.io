@@ -1,33 +1,45 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Pront Change Log</title>
     <link>https://prontGo.github.io/</link>
     <description>Recent content on Pront Change Log</description>
-    <generator>Hugo -- 0.140.2</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://prontGo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>timtimtim127543@gmail.com (Pront)</managingEditor>
+    <webMaster>timtimtim127543@gmail.com (Pront)</webMaster>
+    <copyright>© 2025 Pront</copyright>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://prontGo.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>如何用網路自學Python？</title>
       <link>https://prontGo.github.io/posts/learning-python/</link>
       <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <author>timtimtim127543@gmail.com (Pront)</author>
       <guid>https://prontGo.github.io/posts/learning-python/</guid>
-      <description>Python是一個強大且適合新手的物件導向程式語言，它簡單易學而且編寫效率很高，被廣泛用於AI及科學領域。本篇將會告訴你如何運用優質的免費網路資源自學Python。</description>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://prontGo.github.io/posts/learning-python/feature.webp" />
     </item>
+    
     <item>
       <title>Pront Change Log 啟動！</title>
       <link>https://prontGo.github.io/posts/startprontchangelog/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <author>timtimtim127543@gmail.com (Pront)</author>
       <guid>https://prontGo.github.io/posts/startprontchangelog/</guid>
       <description>Pront Change Log 啟動！</description>
+      
     </item>
+    
     <item>
       <title>搜尋</title>
       <link>https://prontGo.github.io/search/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <author>timtimtim127543@gmail.com (Pront)</author>
       <guid>https://prontGo.github.io/search/</guid>
-      <description>&lt;p&gt;此搜尋功能是&lt;strong&gt;我自己做的&lt;/strong&gt;而不是PaperMod內建的功能，當你按下&lt;strong&gt;Enter&lt;/strong&gt;時會自動戴上參數跳轉到&lt;strong&gt;Google搜尋&lt;/strong&gt;。&lt;/p&gt;</description>
+      <description></description>
+      
     </item>
+    
   </channel>
 </rss>

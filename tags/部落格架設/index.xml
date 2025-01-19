@@ -1,19 +1,25 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
-<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>部落格架設 on Pront Change Log</title>
     <link>https://prontGo.github.io/tags/%E9%83%A8%E8%90%BD%E6%A0%BC%E6%9E%B6%E8%A8%AD/</link>
     <description>Recent content in 部落格架設 on Pront Change Log</description>
-    <generator>Hugo -- 0.140.2</generator>
+    <generator>Hugo -- gohugo.io</generator>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://prontGo.github.io/tags/%E9%83%A8%E8%90%BD%E6%A0%BC%E6%9E%B6%E8%A8%AD/index.xml" rel="self" type="application/rss+xml" />
+    <managingEditor>timtimtim127543@gmail.com (Pront)</managingEditor>
+    <webMaster>timtimtim127543@gmail.com (Pront)</webMaster>
+    <copyright>© 2025 Pront</copyright>
+    <lastBuildDate>Tue, 24 Dec 2024 00:00:00 +0000</lastBuildDate><atom:link href="https://prontGo.github.io/tags/%E9%83%A8%E8%90%BD%E6%A0%BC%E6%9E%B6%E8%A8%AD/index.xml" rel="self" type="application/rss+xml" />
+    
     <item>
       <title>Pront Change Log 啟動！</title>
       <link>https://prontGo.github.io/posts/startprontchangelog/</link>
       <pubDate>Tue, 24 Dec 2024 00:00:00 +0000</pubDate>
+      <author>timtimtim127543@gmail.com (Pront)</author>
       <guid>https://prontGo.github.io/posts/startprontchangelog/</guid>
       <description>Pront Change Log 啟動！</description>
+      
     </item>
+    
   </channel>
 </rss>

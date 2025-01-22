@@ -392,6 +392,16 @@
 
 
 
+<script>
+    (function () {
+        var $mainmenu = $('.main-menu');
+        var path = window.location.pathname;
+        $mainmenu.find('a[href="' + path + '"]').each(function (i, e) {
+            $(e).children('p').addClass('active');
+        });
+    })();
+</script>
+
 
   
   <div class="relative flex flex-col grow">
@@ -400,6 +410,15 @@
 
 
 <article>
+  
+  
+  
+  
+  
+  
+ 
+
+  
   
 
   <header id="single_header" class="mt-5 max-w-prose">
@@ -542,6 +561,28 @@ const input_item = document.getElementById("search_input")
 
     
 
+    
+    
+    <div class="pt-3">
+      <hr class="border-dotted border-neutral-300 dark:border-neutral-600" />
+      <div class="pt-3">
+        <div id="disqus_thread"></div>
+<script>
+    
+
+    
+
+    (function() { 
+    var d = document, s = d.createElement('script');
+    s.src = 'https://pront-change-log.disqus.com/embed.js';
+    s.setAttribute('data-timestamp', +new Date());
+    (d.head || d.body).appendChild(s);
+    })();
+</script>
+<noscript>Please enable JavaScript to view the <a href="https://disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+      </div>
+    </div>
+    
     
   </footer>
 </article>

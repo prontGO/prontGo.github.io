@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Python on Pront Change Log</title>
+    <link>https://prontGo.github.io/categories/python/</link>
+    <description>Recent content in Python on Pront Change Log</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>zh-tw</language>
+    <managingEditor>timtimtim127543@gmail.com (Pront)</managingEditor>
+    <webMaster>timtimtim127543@gmail.com (Pront)</webMaster>
+    <copyright>© 2025 Pront</copyright>
+    <lastBuildDate>Wed, 01 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="https://prontGo.github.io/categories/python/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>如何用網路自學Python？</title>
+      <link>https://prontGo.github.io/posts/learning-python/</link>
+      <pubDate>Wed, 01 Jan 2025 00:00:00 +0000</pubDate>
+      <author>timtimtim127543@gmail.com (Pront)</author>
+      <guid>https://prontGo.github.io/posts/learning-python/</guid>
+      <description></description>
+      <media:content xmlns:media="http://search.yahoo.com/mrss/" url="https://prontGo.github.io/posts/learning-python/feature.webp" />
+    </item>
+    
+  </channel>
+</rss>
